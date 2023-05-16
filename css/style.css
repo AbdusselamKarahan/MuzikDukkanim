@@ -1,0 +1,59 @@
+/**************************  COLOR ************************************/
+
+.text-orange{
+
+color: rgb(255, 187, 0);
+
+}
+
+.text-red {
+
+    color: rgb(146, 0, 44);
+
+}
+
+.text-aliceblue {
+    
+    color: aliceblue;
+    
+}
+
+/**************************  FONT SİZE  ************************************/
+
+.fs-45 {
+
+font-size: 45px ;
+
+}
+
+.fs-35{
+
+font-size: 35px;
+
+}
+
+.fs-30{
+
+font-size: 30px;
+
+}
+
+.fs-25{
+
+font-size: 25px;
+
+}
+
+/************************** POSİTİON  ************************************/
+
+.ul {
+
+    list-style-position: inside
+
+}
+
+.ol {
+
+    list-style-position: inside
+
+}
